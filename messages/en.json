@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "steploot — Tech & Crypto News",
+    "description": "Daily coverage of phones, AI and crypto in four languages — with exclusive Binance Red Packet codes hidden inside our articles."
+  },
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "telegram": "Telegram",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "tagline": "Tech news"
+  },
+  "hero": {
+    "kicker": "TECH • CRYPTO • DEALS",
+    "titleA": "All the latest tech",
+    "titleAccent": "and exclusive codes",
+    "titleB": "in one place",
+    "subtitle": "Daily coverage of phones, AI and crypto in four languages — plus Binance Red Packet codes hidden inside our articles.",
+    "ctaPrimary": "Browse the latest news",
+    "ctaSecondary": "Join us on Telegram",
+    "badge1": "4 languages",
+    "badge2": "Daily updates",
+    "badge3": "Weekly codes"
+  },
+  "trending": {
+    "kicker": "Trending now",
+    "title": "Trending News",
+    "featured": "Featured",
+    "empty": "No published articles yet."
+  },
+  "extras": {
+    "kicker": "Extras",
+    "title": "Extras & Crypto News",
+    "cryptoHeading": "Crypto news",
+    "live": "LIVE",
+    "telegramTitle": "Our Telegram channel",
+    "telegramDesc": "Exclusive codes, contests and instant alerts for every new article.",
+    "telegramCta": "Join now",
+    "othersHeading": "Also find us on",
+    "cryptoEmpty": "No crypto articles published yet."
+  },
+  "footer": {
+    "tagline": "Your daily stop for tech news, crypto and exclusive deals.",
+    "quickLinks": "Quick links",
+    "legal": "Legal",
+    "platforms": "Platforms",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "rights": "All rights reserved."
+  },
+  "products": {
+    "kicker": "Affiliate picks",
+    "title": "Products",
+    "subtitle": "Our hand-picked tech products, with purchase links.",
+    "disclosure": "We may earn a commission from affiliate links, at no extra cost to you.",
+    "cta": "View product",
+    "empty": "No products published yet."
+  },
+  "codes": {
+    "kicker": "Red Packet codes",
+    "title": "Codes archive",
+    "subtitle": "Codes are normally hidden inside articles — this page is an archive for reference only.",
+    "active": "Active",
+    "expired": "Expired",
+    "copy": "Copy",
+    "copied": "Copied!"
+  },
+  "about": {
+    "title": "About us",
+    "body": "steploot is an independent tech-news site covering phones, AI, apps and crypto in four languages. Contact page coming soon."
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "notice": "",
+    "body": "The full privacy policy will be published here."
+  },
+  "terms": {
+    "title": "Terms of use",
+    "notice": "",
+    "body": "The full terms of use will be published here."
+  },
+  "article": {
+    "back": "← Back to news",
+    "readMore": "Read more"
+  },
+  "theme": {
+    "toggle": "Toggle dark mode"
+  }
+}

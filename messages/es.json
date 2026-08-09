@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "steploot — Noticias Tech y Cripto",
+    "description": "Cobertura diaria de móviles, IA y cripto en cuatro idiomas — con códigos Binance Red Packet exclusivos ocultos dentro de nuestros artículos."
+  },
+  "header": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Sobre nosotros",
+    "telegram": "Telegram",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "tagline": "Noticias tech"
+  },
+  "hero": {
+    "kicker": "TECNOLOGÍA • CRIPTO • OFERTAS",
+    "titleA": "Toda la actualidad tech",
+    "titleAccent": "y códigos exclusivos",
+    "titleB": "en un solo lugar",
+    "subtitle": "Cobertura diaria de móviles, IA y cripto en cuatro idiomas — con códigos Binance Red Packet ocultos dentro de nuestros artículos.",
+    "ctaPrimary": "Ver las últimas noticias",
+    "ctaSecondary": "Únete al Telegram",
+    "badge1": "4 idiomas",
+    "badge2": "Actualización diaria",
+    "badge3": "Códigos semanales"
+  },
+  "trending": {
+    "kicker": "Tendencias",
+    "title": "Noticias destacadas",
+    "featured": "Destacado",
+    "empty": "Aún no hay artículos publicados."
+  },
+  "extras": {
+    "kicker": "Extras",
+    "title": "Extras y noticias cripto",
+    "cryptoHeading": "Noticias cripto",
+    "live": "EN VIVO",
+    "telegramTitle": "Nuestro canal de Telegram",
+    "telegramDesc": "Códigos exclusivos, concursos y alertas al instante con cada artículo nuevo.",
+    "telegramCta": "Únete ahora",
+    "othersHeading": "Síguenos también en",
+    "cryptoEmpty": "Aún no hay artículos de cripto publicados."
+  },
+  "footer": {
+    "tagline": "Tu parada diaria de noticias tech, cripto y ofertas exclusivas.",
+    "quickLinks": "Enlaces rápidos",
+    "legal": "Legal",
+    "platforms": "Plataformas",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de uso",
+    "rights": "Todos los derechos reservados."
+  },
+  "products": {
+    "kicker": "Selección afiliada",
+    "title": "Productos",
+    "subtitle": "Productos tech elegidos con cuidado, con enlaces de compra.",
+    "disclosure": "Podemos recibir una comisión por los enlaces de afiliados, sin coste extra para ti.",
+    "cta": "Ver producto",
+    "empty": "Aún no hay productos publicados."
+  },
+  "codes": {
+    "kicker": "Códigos Red Packet",
+    "title": "Archivo de códigos",
+    "subtitle": "Los códigos suelen esconderse dentro de los artículos — esta página es solo un archivo de consulta.",
+    "active": "Activo",
+    "expired": "Caducado",
+    "copy": "Copiar",
+    "copied": "¡Copiado!"
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "body": "steploot es un sitio independiente de noticias tech que cubre móviles, IA, apps y cripto en cuatro idiomas. Página de contacto próximamente."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "notice": "",
+    "body": "La política de privacidad completa se publicará aquí."
+  },
+  "terms": {
+    "title": "Términos de uso",
+    "notice": "",
+    "body": "Los términos de uso completos se publicarán aquí."
+  },
+  "article": {
+    "back": "← Volver a las noticias",
+    "readMore": "Leer más"
+  },
+  "theme": {
+    "toggle": "Cambiar modo oscuro"
+  }
+}
